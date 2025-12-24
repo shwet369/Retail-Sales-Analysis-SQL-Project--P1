@@ -211,17 +211,34 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
-## Author - Zero Analyst
+Author – Shweta Bhoyar
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+Shweta Bhoyar is a Certified Data Analyst & Data Scientist with hands-on experience in SQL, Python, Machine Learning, and data-driven problem solving. She has worked on multiple end-to-end analytics and machine learning projects, focusing on transforming raw data into meaningful business insights.
 
-### Stay Updated and Join the Community
+This Retail Sales Analysis SQL Project is part of her growing data portfolio and demonstrates practical SQL skills including database design, data cleaning, exploratory data analysis (EDA), and business-oriented querying—essential for entry-level and junior data analyst roles.
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+Shweta is passionate about continuous learning, real-world data projects, and sharing knowledge with the data community.
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
+📬 Get in Touch
 
-Thank you for your support, and I look forward to connecting with you!
+Email: shwetabhoyar04@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/shweta-bhoyar-datascience/
+
+GitHub: https://github.com/shwet369
+
+
+
+🚀 Portfolio Note
+
+This project highlights:
+
+SQL fundamentals for analytics
+
+Business-focused data exploration
+
+Real-world retail use cases
+
+Clean, readable, and reusable SQL queries
+
+If you have feedback, collaboration ideas, or opportunities related to Data Analysis, SQL, or Machine Learning, feel free to connect.
